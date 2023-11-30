@@ -1,4 +1,0 @@
-﻿  Source.cpp
-O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Jean-Elie_Jeremie\PROG\Epreuve\Test1_JJE\Test1_JJE\Test1_JJE\Source.cpp(12,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
-O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Jean-Elie_Jeremie\PROG\Epreuve\Test1_JJE\Test1_JJE\Test1_JJE\Source.cpp(25,36): error C2297: « & » : non valide, car l’opérande droit a le type « double »
-O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Jean-Elie_Jeremie\PROG\Epreuve\Test1_JJE\Test1_JJE\Test1_JJE\Source.cpp(29,42): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données

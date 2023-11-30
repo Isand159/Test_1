@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\karstopa\Desktop\TEST_RPOG\testQ4\Source.cpp(13,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+C:\Users\karstopa\Desktop\TEST_RPOG\testQ4\Source.cpp(40,43): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  testQ4.vcxproj -> C:\Users\karstopa\Desktop\TEST_RPOG\testQ4\x64\Debug\testQ4.exe

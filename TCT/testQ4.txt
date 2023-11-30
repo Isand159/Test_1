@@ -1,7 +1,0 @@
-#ifndef testQ4_H
-#define testQ4_H
-
-//constantes
-#define VAL_REGISTRE 0xFF33
-
-#endif
